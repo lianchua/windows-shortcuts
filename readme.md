@@ -28,3 +28,5 @@ nircmd.exe mutesysvolume 2
 ```
 
 右键属性，设置F10为快捷键，当年按下F10，就会启动这个命令，系统就会静音，再次按下，静音解除！
+
+![cmd-markdown-logo](https://github.com/lianchua/windows-shortcuts/blob/main/images/demo.png)
