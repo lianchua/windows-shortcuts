@@ -1,15 +1,15 @@
-NirCmd的简介
+**NirCmd的简介**
 
 NIrCMD是一个小命令行实用工具，允许您在不显示任何用户界面的情况下执行一些有用的任务。通过使用简单命令行选项运行NIMRCD，可以在注册表中写入和删除值和键，将值写入INI文件，拨号到Internet帐户或连接到VPN网络，重新启动Windows或关闭计算机，创建文件快捷方式，更改创建/修改日期。一个文件，改变你的显示设置，关闭你的显示器，打开你的CD-ROM驱动器的门，以及更多…
 
 官网：http://www.nirsoft.net/utils/nircmd.html
 
-NirCmd的安装
+**NirCmd的安装**
 
 http://launcher.nirsoft.net/downloads/index.html 
 你也可以直接git本项目的zip，32位/64位都有：  
 
-NirCmd的使用方法
+**NirCmd的使用方法**
 
 使用NirCmd：
 
