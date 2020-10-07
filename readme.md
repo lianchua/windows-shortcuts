@@ -7,6 +7,7 @@ NIrCMD是一个小命令行实用工具，允许您在不显示任何用户界�
 NirCmd的安装
 
 http://launcher.nirsoft.net/downloads/index.html 
+你也可以直接git本项目的zip，32位/64位都有：  
 
 NirCmd的使用方法
 
@@ -14,6 +15,7 @@ NirCmd的使用方法
 
 这款软件是一个独立的可执行程序，不需要任何的安装过程或者额外的dll文件支持。只需要把exe文件复制到任何指定的文件夹，并且根据你的需要添加你需要的命令选项运行即可。推荐复制NirCmd.exe到Windows目录，或者复制到任何系统中path环境变量中所列出的路径下，这样你就不需要在每次运行时输入NirCmd的完整路径。
 
+使用举例：https://jingyan.baidu.com/article/3c343ff7aee3470d377963fc.html
 
 介绍nircmd命令博客地址： https://blog.csdn.net/hongkaihua1987/article/details/85050851
 
