@@ -38,3 +38,5 @@ nircmd.exe mutesysvolume 2
 ![cmd-markdown-logo](https://github.com/lianchua/windows-shortcuts/blob/main/images/save.png)
 
 cmd测试该命令可以控制声音的静音，然后新建快捷方式，输入上面代码框的的命令，然后取个名字，设置一个快捷键就可以快捷键执行了，当然，单击也能执行，cmd也能执行，不过我们肯定是要在任意界面按键执行！
+
+![cmd-markdown-logo](https://github.com/lianchua/windows-shortcuts/blob/main/images/ico.png)
