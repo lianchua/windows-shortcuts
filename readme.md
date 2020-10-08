@@ -8,6 +8,7 @@ NIrCMD是一个小命令行实用工具，允许您在不显示任何用户界�
 
 http://launcher.nirsoft.net/downloads/index.html 
 你也可以直接git本项目的zip，32位/64位都有：  
+下载好，直接执行nircmd.exe文件，会把文件复制到系统环境变量的目录下，然后cmd执行代码测试一下是否生效，生效了，就可以新建快捷方式了。 
 
 **NirCmd的使用方法**
 
